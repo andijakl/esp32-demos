@@ -1,0 +1,76 @@
+{
+	"folders": [
+		{
+			"name": "BlinkLed",
+			"path": "BlinkLed"
+		},
+		{
+			"name": "DigitalLed",
+			"path": "DigitalLed"
+		},
+		{
+			"name": "LedFadeDac",
+			"path": "LedFadeDac"
+		},
+		{
+			"name": "LedFadePwm",
+			"path": "LedFadePwm"
+		},
+		{
+			"name": "SerialOutput",
+			"path": "SerialOutput"
+		},
+		{
+			"name": "TouchInput",
+			"path": "TouchInput"
+		},
+		{
+			"name": "LDR",
+			"path": "LDR"
+		},
+		{
+			"name": "EspWebServer",
+			"path": "EspWebServer"
+		},
+		{
+			"path": "PulseOxymeter"
+		},
+		{
+			"name": "DHT11",
+			"path": "DHT11"
+		},
+		{
+			"name": "ProximitySensor",
+			"path": "ProximitySensor"
+		},
+		{
+			"name": "HallEffectSensor",
+			"path": "HallEffectSensor"
+		},
+		{
+			"name": "Microphone",
+			"path": "Microphone"
+		},
+		{
+			"name": "PulseSparkfun",
+			"path": "PulseSparkfun"
+		},
+		{
+			"name": "MAX30102",
+			"path": "MAX30102"
+		},
+		{
+			"name": "MAX30102-Temperature",
+			"path": "MAX30102-Temperature"
+		},
+		{
+			"name": "MAX30102-HeartRate",
+			"path": "MAX30102-HeartRate"
+		},
+		{
+			"name": "MAX30102-SpO2",
+			"path": "MAX30102-SpO2"
+		}
+	],
+	"settings": {}
+}
